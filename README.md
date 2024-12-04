@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MD-11-PRO
 - 👀 I’m interested in ...Creating Group Projects
-- 🌱 I’m currently learning ...JAVA,C#
+- 🌱 I’m currently learning ...JAVA,C++
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
